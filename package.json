@@ -1,0 +1,27 @@
+{
+  "name": "clearit",
+  "version": "1.0.0",
+  "description": "API for CLEARIT ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vibo777/Clearit.git"
+  },
+  "author": "vaibhav bunde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vibo777/Clearit/issues"
+  },
+  "homepage": "https://github.com/vibo777/Clearit#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.1.3"
+  }
+}
